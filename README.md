@@ -18,7 +18,7 @@ var call = function(func){
 
 var print = function(message){
   return function(){
-    console.log('callback counter test:',message);
+    console.log(message);
   }
 }
 
