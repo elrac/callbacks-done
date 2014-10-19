@@ -3,7 +3,7 @@
 	"author" : {
 		"name":"elrac"
 	},
-	"version":"1.0.0",
+	"version":"1.2.0",
 	"description":"Keeps track of calls to your callback functions and calls a specified function when they are done.",
 	"main":"lib/callbacksDone.js",
 	"private":true
